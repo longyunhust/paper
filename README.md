@@ -1,7 +1,7 @@
-## paper
-# neural style transfer
+# paper
+## neural style transfer
 
-# time-series prediction 
+## time-series prediction 
 
-# video prediction
+## video prediction
 
