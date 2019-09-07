@@ -1,9 +1,9 @@
 # generative models  
 
-## generative adversarial networks
+## 	generative adversarial networks
 
 
 
-## autoencoder
+## 	autoencoder
 
-### variational autoencoder
+### 		variational autoencoder
