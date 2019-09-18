@@ -1,7 +1,25 @@
 # paper
-## neural style transfer
 
-## time-series prediction 
+## data sets  
 
-## video prediction
+## generative models  
+
+## neural style transfer  
+
+## normalization
+
+## optimization
+
+
+## semantic segmentation
+
+## super-resolution
+
+## time-series prediction  
+
+## video-interpolation
+
+## video prediction  
+
+
 
