@@ -4,6 +4,10 @@
 
 ## generative models  
 
+## image-to-image translation
+
+## natural language processing
+
 ## neural style transfer  
 
 ## normalization
@@ -17,9 +21,11 @@
 
 ## time-series prediction  
 
+## toolkits
+
 ## video-interpolation
 
 ## video prediction  
 
-
+## visibility prediction
 
