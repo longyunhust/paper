@@ -1,1 +1,2 @@
 简单理解与实验生成对抗网络GAN https://blog.csdn.net/on2way/article/details/72773771
+一文读懂生成对抗网络（GANs） https://blog.csdn.net/qq_28168421/article/details/80993864
