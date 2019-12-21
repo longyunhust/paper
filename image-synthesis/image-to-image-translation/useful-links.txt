@@ -1,0 +1,2 @@
+Awesome Image Translation  https://github.com/xiaweihao/awesome-image-translation
+A collection of image to image papers with code (constantly updating) https://github.com/lzhbrian/image-to-image-papers#unsupervised---disentangled-andor-exemplar-guided
