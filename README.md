@@ -28,7 +28,7 @@
 
 ## &#8194; toolkits
 
-## video
+## &#8194; videos
 ### &#8195; video-interpolation
 
 ### &#8195; video prediction  
