@@ -24,14 +24,14 @@
 ### &#8195; instance segmentation 
 
 
-## time-series prediction  
+## &#8194; time-series prediction  
 
-## toolkits
+## &#8194; toolkits
 
 ## video
 ### &#8195; video-interpolation
 
 ### &#8195; video prediction  
 
-## visibility prediction
+## &#8194; visibility prediction
 
