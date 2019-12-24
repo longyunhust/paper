@@ -1,31 +1,37 @@
 # paper
 
-## data sets  
+## &#8194; data sets  
 
-## generative models  
+## &#8194; generative models  
+### &#8195; VAE
+### &#8195; GAN
 
-## image-to-image translation
+## &#8194; images
 
-## natural language processing
+### &#8195; image-to-image translation
+### &#8195; neural style transfer  
+### &#8195; image super-resolution
 
-## neural style transfer  
-
-## normalization
-
-## optimization
+## &#8194; natural language processing
 
 
-## semantic segmentation
+## &#8194; normalization
 
-## super-resolution
+## &#8194; optimization
+
+## &#8194; segmentation 
+### &#8195; semantic segmentation
+### &#8195; instance segmentation 
+
 
 ## time-series prediction  
 
 ## toolkits
 
-## video-interpolation
+## video
+### &#8195; video-interpolation
 
-## video prediction  
+### &#8195; video prediction  
 
 ## visibility prediction
 
