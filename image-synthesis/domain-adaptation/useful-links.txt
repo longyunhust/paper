@@ -1,3 +1,0 @@
-A collection of AWESOME things about domian adaptation https://github.com/zhaoxin94/awsome-domain-adaptation
-
-State of the Art in Domain Adaptation (CVPR in Review IV) https://medium.com/neuromation-blog/state-of-the-art-in-domain-adaptation-cvpr-in-review-iv-21ac05f935b9
